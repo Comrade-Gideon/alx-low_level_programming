@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 /*
  *This program generates a random integer and determines whether it is positive,
  * negative, or zero. It uses the rand() function to generate a random number,
