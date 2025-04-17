@@ -1,9 +1,10 @@
-l# C Programming Basics
+# 0x01. C - Variables, if, else, while
+C
 
 ## Resources
 
 ### Read or watch:
-- [Everything you need to know to start with C.pdf](https://github.com/your-username/your-repo/blob/main/Everything_you_need_to_know_to_start_with_C.pdf) *(You do not have to learn everything in there yet, but make sure you read it entirely first and understand the slides: “comments”, “Data types | Integer types”, “Declaration”, “Characters”, “Arithmetic operators”, “Variables assignments”, “Comparisons”, “Logical operators”, “if, if…else”, “while loops”.)*
+- [Everything you need to know to start with C.pdf](https://github.com/Comrade-Gideon/alx-low_level_programming/blob/main/Everything_you_need_to_know_to_start_with_C.pdf) *(You do not have to learn everything in there yet, but make sure you read it entirely first and understand the slides: “comments”, “Data types | Integer types”, “Declaration”, “Characters”, “Arithmetic operators”, “Variables assignments”, “Comparisons”, “Logical operators”, “if, if…else”, “while loops”.)*
 - [Keywords and identifiers](https://publications.gbdirect.co.uk//c_book/chapter2/keywords_and_identifiers.html)
 - [Integers](https://publications.gbdirect.co.uk//c_book/chapter2/integral_types.html)
 - [Arithmetic Operators in C](https://www.tutorialspoint.com/cprogramming/c_arithmetic_operators.htm)
