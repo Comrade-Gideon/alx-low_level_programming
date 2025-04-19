@@ -13,14 +13,13 @@
 int main(void)
 {
 	int a = 0;
-	char b = ',';
 
 	while (a < 10)
 	{
 		putchar(a + '0');
 		if (a != 9)
 		{
-			putchar(b);
+			putchar(',');
 			putchar(' ');
 		}
 		a++;
