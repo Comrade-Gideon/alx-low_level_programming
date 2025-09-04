@@ -1,7 +1,8 @@
 #include "main.h"
 /**
  * print_last_digit - prints the last digit of a number.
- * Description: Handle the last digit of a given integer, positive negstive and  0
+ * @n: Handle the last digit of a given integer,
+ * positive negstive and  0
  * Return: Always return 0, if success
  */
 
