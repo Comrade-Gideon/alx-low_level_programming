@@ -4,7 +4,8 @@
  * Return: Always return 0, if success
  */
 
-int print_last_digit(int n){
+int print_last_digit(int n)
+{
 	int last_digit = n % 10;
 
 	while (last_digit < 0)
