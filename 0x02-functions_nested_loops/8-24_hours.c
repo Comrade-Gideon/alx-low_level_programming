@@ -2,6 +2,7 @@
 /**
  * Jack_bauer - A function that prints every minute of the day of Jack Bauer,
  * starting from 00:00 to 23:59.
+ * @void: parameter
  * Return: Always return 0, if sucess.
  */
 
@@ -17,7 +18,7 @@ void jack_bauer(void)
 		hour2 = 0;
 		while (hour2 <= 9)
 		{
-			if ((hour1 <= 1 && hour2 <= 9) || (hour1 <=2 && hour2 <= 3))
+			if ((hour1 <= 1 && hour2 <= 9) || (hour1 <= 2 && hour2 <= 3))
 			{
 				minute1 = 0;
 				while (minute1 <= 5)
@@ -40,5 +41,4 @@ void jack_bauer(void)
 		}
 		hour1++;
 	}
-	return;
 }
